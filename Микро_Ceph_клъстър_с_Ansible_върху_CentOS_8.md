@@ -24,4 +24,4 @@ Ansible е инструмент или платформа с отворен ко
 | node-3.ceph.example.com | mon, osd       | 192.168.10.13 | 10.44.0.13      | 192.168.20.13  |
 -----------------------------------------------------------------------------------------------
  ```
- ![assets/micro-ceph-cluster.png](/assets/micro-ceph-cluster.png)
+ ![assets/micro-ceph-cluster-1.png](/assets/micro-ceph-cluster-1.png)
